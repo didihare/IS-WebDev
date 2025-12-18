@@ -1,0 +1,45 @@
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: navy
+}
+
+p {
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+}
+
+
+li {
+    font-size: 17px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+
+}
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: navy
+}
+
+.snowbg {
+    background-color: lightblue;
+}
+
+.hea {
+    text-align: center;
+}
+
+.inf {
+    background-color: aliceblue;
+    padding: 20px;
+    margin: auto;
+    width: 70%;
+}
+
+.foo{
+    margin-top: 50px;
+}
